@@ -6,4 +6,9 @@ In addition, there are miscellaneous tutorials on many different but relevant as
 (2) Time-series analysis
 (3) Pytorch
 (4) Pyro
-(5) Others
+(5) Cython
+(6) Monte Carlo simulation
+(7) Bootstrap
+(8) Reinforcement learning
+(9) OpenAI
+(10) Others
